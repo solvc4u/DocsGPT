@@ -13,13 +13,13 @@ Load it onto your laptop and start asking the PDFs questions.  OpenAI's GPT 3.5-
 
 [2023-04-19] This screenshot shows the Q&A after the PDFs are ingested. Each question is queried to the GPT 3.5-turbo API and the response is generated in real-time.
 
-![Screenshot](https://github.com/alanwunsche/DocsGPT/blob/main/DocsGPT-Demo-CLI-2023-04-19-at-9.12.05%20PM.png)
+![Screenshot](https://github.com/solvc4u/DocsGPT/blob/main/DocsGPT-Demo-CLI-2023-04-19-at-9.12.05%20PM.png)
 
 ## Installation
 
 Open your Terminal application:
 
-```git clone https://github.com/alanwunsche/DocsGPT.git```
+```git clone https://github.com/solvc4u/DocsGPT.git```
 
 ```cd DocsGPT```
 
@@ -52,8 +52,6 @@ Describe in depth the company's climate strategy over the past decade
 
 Describe the expected business benefits of the company's climate plans for the upcoming decade
 
-## Contact
-Twitter: [@alanwunsche](https://twitter.com/alanwunsche)
 
 ## Notes
 1. You may encounter a warning "detectron2 is not installed. Cannot use the hi_res partitioning strategy. Falling back to partitioning with the fast strategy." This warning will not prevent your app from working.
